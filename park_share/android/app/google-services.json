@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228023507543",
+    "project_id": "finalprojectr",
+    "storage_bucket": "finalprojectr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228023507543:android:28e5d36115eb694b9c6112",
+        "android_client_info": {
+          "package_name": "com.example.park_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228023507543-aj035hfq5juujtpib42j8eb9v2o2eu6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqtoRXySlW3brFheiiQqKrFQqPGHbDiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228023507543-aj035hfq5juujtpib42j8eb9v2o2eu6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
